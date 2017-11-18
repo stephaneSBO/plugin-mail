@@ -2,6 +2,8 @@
 
 <<[faq.md]
 
+#include "faq.md"
+
 ## Section 2
 
 <<[sections/section2.md]
