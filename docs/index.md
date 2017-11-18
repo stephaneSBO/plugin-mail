@@ -152,4 +152,4 @@ le titre et le message.
 >
 > Pensez à sauvegarder toutes les modifications.
 
-{{md  faq }} 
+{{md  faq.md}} 
